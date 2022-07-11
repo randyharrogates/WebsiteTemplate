@@ -1,0 +1,3 @@
+# WebsiteTemplate
+
+Static website template
